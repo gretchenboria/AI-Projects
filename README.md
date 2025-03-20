@@ -1,4 +1,4 @@
-Vibe coding project - TypeWho?
+Vibe Coding AI Hackathon, AGI House SF - TypeWho?
 
 1rst place of the AGI House AI Vibe Coding Hackathon 3/8/2025
 
